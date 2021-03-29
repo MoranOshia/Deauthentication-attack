@@ -3,12 +3,21 @@
 Moran Oshia and Amit Bibi
 
 This tool is used for attack on Wifi netwroks.
-all you need to do in to run the Python file and enter the interface at first, and thr enter the client you want to attack.
 
 ## Requirement
-1. Network adapter
+1. Wireless adapter card
 2. Ubuntu
 3. Python 3
 4. Scapy
+
+
+## Do the following steps:
+1.Run the Python file.
+2.Enter the interface.
+3.Enter the client's address you want to attack.
+The program will attack the client and disconnect him from his network. 
+
+*Bash commands are running inside the python program.
+
 
 
