@@ -4,7 +4,7 @@ Moran Oshia and Amit Bibi
 
 This tool is used for attack on Wifi netwroks.
 
-## Requirement
+## Requirements:
 1. Wireless adapter card
 2. Ubuntu
 3. Python 3
