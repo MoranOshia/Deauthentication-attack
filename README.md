@@ -3,7 +3,7 @@
 
 Moran Oshia and Amit Bibi
 
-## Recuiments
+## Requirement
 1. Network adapter
 2. Ubuntu
 3. Python 3
