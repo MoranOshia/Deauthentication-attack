@@ -13,8 +13,11 @@ This tool is used for attack on Wifi netwroks.
 
 ## Do the following steps:
 1.Run the Python file.
+
 2.Enter the interface.
+
 3.Enter the client's address you want to attack.
+4
 The program will attack the client and disconnect him from his network. 
 
 *Bash commands are running inside the python program.
